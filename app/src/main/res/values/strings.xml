@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sound Ad Detector</string>
+    <string name="grant_permission">Grant Notification Access</string>
+    <string name="waiting_for_notification">Waiting for SoundCloud notification...</string>
+</resources>
